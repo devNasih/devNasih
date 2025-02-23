@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nasih Ameen K</h1>
 <h3 align="center">Full Stack Developer | Senior Flutter Developer | India</h3>
 
+- 🔭 I’m currently working on **Brandbik Creative's**
+
+- 👯 I’m looking to collaborate on **Innovix Labs**
+
 - 📫 How to reach me **nasihameen902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
