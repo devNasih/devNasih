@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasih Ameen K</h1>
 <h3 align="center">Full Stack Developer | Senior Flutter Developer | India</h3>
 
-<p align="left"> <a href="https://twitter.com/nasihameen13" target="blank"><img src="https://img.shields.io/twitter/follow/nasihameen13?logo=twitter&style=for-the-badge" alt="nasihameen13" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CodewithNasii" target="blank"><img src="https://img.shields.io/twitter/follow/CodewithNasii?logo=twitter&style=for-the-badge" alt="CodewithNasii" /></a> </p>
 
 - 🔭 I’m currently working on **Brandbik Creative's**
 
