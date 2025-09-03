@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/CodewithNasii" target="blank"><img src="https://img.shields.io/twitter/follow/CodewithNasii?logo=twitter&style=for-the-badge" alt="CodewithNasii" /></a> </p>
 
-- 🔭 I’m currently working on **Brandbik Creative's**
-
-- 👯 I’m looking to collaborate on **Innovix Labs**
-
 - 📫 How to reach me **nasihameen902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
